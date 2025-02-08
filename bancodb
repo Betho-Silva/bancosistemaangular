@@ -1,0 +1,31 @@
+{
+  "postagens": [
+    {
+      "identidade": 1,
+      "título": "Postagem 1"
+    },
+    {
+      "identidade": 2,
+      "título": "Postagem 2"
+    },
+    {
+      "identidade": 3,
+      "título": "Postagem 3"
+    }
+  ],
+  "comentários": [
+    {
+      "identidade": 1,
+      "corpo": "algum comentário",
+      "postId": 1
+    },
+    {
+      "identidade": 2,
+      "corpo": "algum comentário",
+      "postId": 1
+    }
+  ],
+  "perfil": {
+    "nome": "typicode"
+  }
+}
